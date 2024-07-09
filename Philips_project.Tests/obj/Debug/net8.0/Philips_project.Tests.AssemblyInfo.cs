@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Philips_project.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d314b62342782be63bd37c1bb1f8eec9b5474506")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d4ac90ef9ca79e7200d2d11cdf302849333f3e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Philips_project.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Philips_project.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

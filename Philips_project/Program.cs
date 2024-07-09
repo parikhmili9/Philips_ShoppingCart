@@ -50,13 +50,37 @@ namespace Philips_Project
             Console.WriteLine("Enter item name: ");
             string name = Console.ReadLine();
 
-            Console.WriteLine("Enter item price: ");
-            double price = double.Parse(Console.ReadLine());
+            double price;
+            while(true)
+            {
+                Console.WriteLine("Enter item price: ");
+                string priceInput = Console.ReadLine();
+                if(double.TryParse(priceInput, out price))
+                {
+                    break;
+                }
+                else 
+                {
+                    Console.WriteLine("Invalid input. Please enter a valid price.");
+                }
+            }
 
-            Console.WriteLine("Enter item quantity: ");
-            int quantity = int.Parse(Console.ReadLine());
+            int quantity;
+            while(true)
+            {
+                Console.WriteLine("Enter item quantity: ");
+                string quantityInput = Console.ReadLine();
+                if(int.TryParse(quantityInput, out quantity))
+                {
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Invalid input. Please enter a valid quantity.");
+                }
+            }
 
-            CartItem item = new CartItem {Name = name, Price = price, Quantity = quantity};
+            var item = new CartItem {Name = name, Price = price, Quantity = quantity};
             service.AddItem(item);
             Console.WriteLine("Item added to cart.");
         }
