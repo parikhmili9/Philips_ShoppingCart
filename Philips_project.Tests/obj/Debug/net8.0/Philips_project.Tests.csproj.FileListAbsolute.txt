@@ -103,3 +103,4 @@ C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project.Tests\obj\D
 C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project.Tests\obj\Debug\net8.0\Philips_project.Tests.pdb
 C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project.Tests\obj\Debug\net8.0\Philips_project.Tests.genruntimeconfig.cache
 C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project.Tests\obj\Debug\net8.0\ref\Philips_project.Tests.dll
+C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project.Tests\obj\Debug\net8.0\Philips_project.Tests.sourcelink.json
