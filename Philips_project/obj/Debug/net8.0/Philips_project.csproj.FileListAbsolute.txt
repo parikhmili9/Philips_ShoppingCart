@@ -1,0 +1,14 @@
+C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project\obj\Debug\net8.0\Philips_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project\obj\Debug\net8.0\Philips_project.AssemblyInfoInputs.cache
+C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project\obj\Debug\net8.0\Philips_project.AssemblyInfo.cs
+C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project\obj\Debug\net8.0\Philips_project.csproj.CoreCompileInputs.cache
+C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project\bin\Debug\net8.0\Philips_project.exe
+C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project\bin\Debug\net8.0\Philips_project.deps.json
+C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project\bin\Debug\net8.0\Philips_project.runtimeconfig.json
+C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project\bin\Debug\net8.0\Philips_project.dll
+C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project\bin\Debug\net8.0\Philips_project.pdb
+C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project\obj\Debug\net8.0\Philips_project.dll
+C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project\obj\Debug\net8.0\refint\Philips_project.dll
+C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project\obj\Debug\net8.0\Philips_project.pdb
+C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project\obj\Debug\net8.0\Philips_project.genruntimeconfig.cache
+C:\Users\Mili Parikh\NEU_Spring24SEM\Philips_Project\Philips_project\obj\Debug\net8.0\ref\Philips_project.dll
